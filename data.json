@@ -1,0 +1,15 @@
+{
+    "data":[
+        {"id":"1","name":"anusha","email":"anusha@Gmail.com","phone":"9652354691","username":"anu","password":"6301845943"},
+        {"id":"2","name":"archana","email":"archa@Gmail.com","phone":"9888888888","username":"archana","password":"6301845943"},
+        {"id":"3","name":"phara","email":"phara@Gmail.com","phone":"9000000000","username":"phara","password":"6301845943"},
+        {"id":"4","name":"kanchana","email":"kanchana@Gmail.com","phone":"99999999","username":"kanchana","password":"6301845943"},
+        {"id":"5","name":"sai","email":"sai@Gmail.com","phone":"9877788877","username":"sai","password":"6301845943"},
+        {"id":"6","name":"krishna","email":"krishna@Gmail.com","phone":"9976765655","username":"krish","password":"6301845943"},
+        {"id":"7","name":"yash","email":"yash@Gmail.com","phone":"965444545","username":"yash","password":"6301845943"},
+        {"id":"8","name":"niharika","email":"niharika@Gmail.com","phone":"88656555444","username":"niha","password":"6301845943"},
+        {"id":"9","name":"sushma","email":"sushma@Gmail.com","phone":"94563434455","username":"sush","password":"6301845943"},
+        {"id":"10","name":"samyuktha","email":"samyuktha@Gmail.com","phone":"987566454","username":"samyuktha","password":"6301845943"}
+       
+    ]
+}
